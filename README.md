@@ -50,7 +50,7 @@ See link in the references for detailed understanding.
 ## DATA VISUALIZATION:
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
-  <img src = "./Formula's/Accidents V.S City.png" alt = 'Apoorv Pathak' width = '300' height = '250'>
+  <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Apoorv Pathak' width = '300' height = '250'>
 </p>
 
 ## REFERENCES:
