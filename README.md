@@ -70,6 +70,17 @@ After all these hustle, combining the plot for price and quantity ordered agains
   <img src = "./Data Visualization/Quantity Ordered, Products, Price.png" alt = 'Accidents V.S City' width = '400' height = '250'>
 </p>
 
+We also discussed about centrality in the previous section; for better understanding we can visualize the network corresonding to these item's and get insights about the maximum purchased item.
+- Figure corresponding to all the items being sold to the customer.
+<p align = 'center'>
+  <img src = "./Data Visualization/All Item Network.png" alt = 'Accidents V.S City' width = '400' height = '250'>
+</p>
+
+- Figure corresponding to the maximum being purchased by the customer.
+<p align = 'center'>
+  <img src = "./Data Visualization/Connection of Maximum Purchased Item.png" alt = 'Accidents V.S City' width = '400' height = '250'>
+</p>
+
 ### Alcohol Sales:
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
