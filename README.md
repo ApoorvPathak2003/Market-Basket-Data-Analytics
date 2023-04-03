@@ -49,7 +49,7 @@ See link in the references for detailed understanding.
 
 ## DATA VISUALIZATION:
 
-#### Customer Segment 
+### Customer Segment:
 First visualization corresponds to that of the TOP 25 bought items by the customers.
 <p align = 'center'>
   <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '400' height = '250'>
@@ -70,7 +70,7 @@ After all these hustle, combining the plot for price and quantity ordered agains
   <img src = "./Data Visualization/Quantity Ordered, Products, Price.png" alt = 'Accidents V.S City' width = '400' height = '250'>
 </p>
 
-#### Alcohol Sales
+### Alcohol Sales:
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
   <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '400' height = '250'>
