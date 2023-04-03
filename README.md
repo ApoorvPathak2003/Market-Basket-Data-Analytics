@@ -9,13 +9,13 @@ In simpler terms, it helps entrepreneurs get the insights of the most frequently
 Market Basket Analysis does not rely on any assumption like linearity, or normality which are often violated during linear-based techniques.
 
 ## DATASET:
-- Dataset used in this analysis contains the monthly sales data for 2019.
-[DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
-- Also it has a combined file of all the monthly sales data for 2019.
+- Dataset used in this analysis contains the monthly sales data for 2019:
+- [DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
+- Also it has a combined file of all the monthly sales data for 2019:
 [COMBINED DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/12%20months%20sales.csv)
-- We also used a dataset which has the description of the grocery items bought by the customers. 
+- We also used a dataset which has the description of the grocery items bought by the customers: 
 [GROCERY DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/Groceries%20data.csv)
-- The last dataset we used contains the details of the items bought by each of our customer.
+- The last dataset we used contains the details of the items bought by each of our customer:
 [CUSTOMERS DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/customers.csv)
 
 ## LOGIC BEHIND MAREKT BASKET ANALYSIS:
@@ -43,14 +43,25 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 ## APRIORI ALGORITHM:
 This is the most popular data-mining algorithm used to extract frequent patterns in the datasets. Association rule is used extensively in this algorithm for determining relations among variables in large datasets.
 <p align = 'center'>
-  <img src = "./Formula's/Apriori Algorithm.png" alt = 'Apoorv Pathak' width = '400' height = '400'>
+  <img src = "./Formula's/Apriori Algorithm.png" alt = 'Apriori Algorithm' width = '400' height = '400'>
 </p>
 See link in the references for detailed understanding.
 
 ## DATA VISUALIZATION:
+First visualization corresponds to that of the TOP 25 bought items by the customers.
+<p align = 'center'>
+  <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '300' height = '250'>
+</p>
+
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
-  <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Apoorv Pathak' width = '300' height = '250'>
+  <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '300' height = '250'>
+</p>
+
+And now we will visualize CITIES & COUNTRIES WITH MAXIMUM ALCOHOL SALES.
+<p float = 'left'>
+  <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '300' height = '250'>
+  <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '300' height = '250'>
 </p>
 
 ## REFERENCES:
