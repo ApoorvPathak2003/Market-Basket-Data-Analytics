@@ -95,7 +95,7 @@ And now we will visualize CITIES & COUNTRIES WITH MAXIMUM ALCOHOL SALES.
 
 On further investigating, the sales vs city plot we will get 'San Francisco CA' making the highest sales of alcohol.
 <p align = 'center'>
-  <img src = "./Data Visualization/Sales vs Cities.png" alt = 'Top cities with maximum alcohol sales' width = '503' height = '300'>
+  <img src = "./Data Visualization/Sales vs Cities.png" alt = 'Top cities with maximum alcohol sales' width = '400' height = '250'>
 </p>
 
 ## REFERENCES:
