@@ -53,6 +53,11 @@ First visualization corresponds to that of the TOP 25 bought items by the custom
   <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '400' height = '250'>
 </p>
 
+Now a HEATMAP is plotted for the TOP 6 products brought by the customers to observe association relations among them.
+<p align = 'center'>
+  <img src = "./Data Visualization/Heatmap Data Correlation.png" alt = 'Accidents V.S City' width = '400' height = '250'>
+</p>
+
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
   <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '400' height = '250'>
