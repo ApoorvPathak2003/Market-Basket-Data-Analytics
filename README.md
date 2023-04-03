@@ -50,18 +50,18 @@ See link in the references for detailed understanding.
 ## DATA VISUALIZATION:
 First visualization corresponds to that of the TOP 25 bought items by the customers.
 <p align = 'center'>
-  <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '300' height = '250'>
+  <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '400' height = '250'>
 </p>
 
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
-  <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '300' height = '250'>
+  <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '400' height = '250'>
 </p>
 
 And now we will visualize CITIES & COUNTRIES WITH MAXIMUM ALCOHOL SALES.
 <p float = 'left'>
-  <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '300' height = '250'>
-  <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '300' height = '250'>
+  <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '400' height = '250'>
+  <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '400' height = '250'>
 </p>
 
 ## REFERENCES:
