@@ -21,7 +21,7 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 1. **Antecedent:** Item on the *LEFT*; primary item being bought. *(Example 1. - Bread)*
 2. **Consequent:** Item on the *RIGHT*; secondary item being bought following item on the left. *(Example 2. - Butter)*
 <p align = 'center'>
-  <img src = "./Formula's/Antecedant & Consequent.png" alt = 'Apoorv Pathak' width = '200' height = '150'>
+  <img src = "./Formula's/Antecedant & Consequent.png" alt = 'Apoorv Pathak' width = '300' height = '150'>
 </p>
 3. **Support:** Probability of the occurrence of the antecedent. *(Example 1. -  Probability that the customer will buy the 'Bread')*
 <p align = 'center'>
