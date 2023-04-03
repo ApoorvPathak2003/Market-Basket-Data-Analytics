@@ -52,7 +52,7 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 </p>
 
 ## REFERENCES:
-[1] [Research Paper: How to Increase Sales in Retail with Market Basket Analysis](https://www.academia.edu/download/56086206/Article_1.pdf)
-[2] [Market Basket Analysis in Management Research](https://journals.sagepub.com/doi/abs/10.1177/0149206312466147)
-[3] [Centrality](https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3)
+[1] [Research Paper: How to Increase Sales in Retail with Market Basket Analysis](https://www.academia.edu/download/56086206/Article_1.pdf)  
+[2] [Market Basket Analysis in Management Research](https://journals.sagepub.com/doi/abs/10.1177/0149206312466147)  
+[3] [Centrality](https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3)  
 [4] [Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
