@@ -8,6 +8,16 @@ In simpler terms, it helps entrepreneurs get the insights of the most frequently
 ### NOTE:
 Market Basket Analysis does not rely on any assumption like linearity, or normality which are often violated during linear-based techniques.
 
+## DATASET:
+- Dataset used in this analysis contains the monthly sales data for 2019.
+[DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
+- Also it has a combined file of all the monthly sales data for 2019.
+[COMBINED DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/12%20months%20sales.csv)
+- We also used a dataset which has the description of the grocery items bought by the customers. 
+[GROCERY DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/Groceries%20data.csv)
+- The last dataset we used contains the details of the items bought by each of our customer.
+[CUSTOMERS DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/customers.csv)
+
 ## LOGIC BEHIND MAREKT BASKET ANALYSIS:
 Primary aim of this analysis is to find the relation between the items being purchased by the customer. This technique primarily computes **If-Then** clause i.e,
 
@@ -30,8 +40,16 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 - 0 means clusters are indifferent from each other and distance between them is not significant.
 - -1 means clusters are assigned incorrectly.
 
+## APRIORI ALGORITHM:
+This is the most popular data-mining algorithm used to extract frequent patterns in the datasets. Association rule is used extensively in this algorithm for determining relations among variables in large datasets.
+<p align = 'center'>
+  <img src = "./Formula's/Apriori Algorithm.png" alt = 'Apoorv Pathak' width = '400' height = '400'>
+</p>
+See link in the references for detailed understanding.
+
 ## REFERENCES:
 [1] [Research Paper: How to Increase Sales in Retail with Market Basket Analysis](https://www.academia.edu/download/56086206/Article_1.pdf)  
 [2] [Market Basket Analysis in Management Research](https://journals.sagepub.com/doi/abs/10.1177/0149206312466147)  
 [3] [Centrality](https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3)  
 [4] [Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
+[5] [Apriori Algorithm](https://www.javatpoint.com/apriori-algorithm)
