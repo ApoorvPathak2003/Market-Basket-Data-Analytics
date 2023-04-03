@@ -14,6 +14,7 @@ Primary aim of this analysis is to find the relation between the items being pur
 ***If[A] then[B] = 'the item on the left(A) is likely to be ordered more often with the item on the right(B)'***
 
 ***Example 1:***
+
 If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when they buy *Bread*.
 
 ## MATHEMATICS & FORMULAE's USED:
