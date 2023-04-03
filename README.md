@@ -58,6 +58,11 @@ Now a HEATMAP is plotted for the TOP 6 products brought by the customers to obse
   <img src = "./Data Visualization/Heatmap Data Correlation.png" alt = 'Accidents V.S City' width = '400' height = '250'>
 </p>
 
+Furthermore, item's support matrix has been plotted for the TOP products brought by the customers to observe support relations among them.
+<p align = 'center'>
+  <img src = "./Data Visualization/Item's Support Matrix.png" alt = 'Accidents V.S City' width = '400' height = '250'>
+</p>
+
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
   <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '400' height = '250'>
