@@ -37,18 +37,18 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 </p>
 6. **Zhang's Metric:** Zhang metric or F-measure can be used to evaluate the performance of association rule mining algorithms. This metric's value ranges from -1 to 1 to represent both positive and perfect associations. This metric helps in determining the specific items which must not be put together.
 <p align = 'center'>
-  <img src = "./Formula's/Zhang Metric.png" alt = 'Apoorv Pathak' width = '800' height = '150'>
+  <img src = "./Formula's/Zhang Metric.png" alt = 'Apoorv Pathak' width = '700' height = '150'>
 </p>
 7. **Centrality:** This is a crucial concept as it help in determining the most important node in the graph. Importance of any node depends on the defination of the *importance*.
 <p align = 'center'>
-  <img src = "./Formula's/Centrality.png" alt = 'Apoorv Pathak' width = '800' height = '150'>
+  <img src = "./Formula's/Centrality.png" alt = 'Apoorv Pathak' width = '700' height = '150'>
 </p>
 8. **Silhouette Coefficient:** Silhouette Score is pretty helpful in calculating the goodness of the clustering techniques. Its value ranges from -1 to 1.
 - 1 means clusters are well apart from each other and clearly distinguished.
 - 0 means clusters are indifferent from each other and distance between them is not significant.
 - -1 means clusters are assigned incorrectly.
 <p align = 'center'>
-  <img src = "./Formula's/Silhouette Score.png" alt = 'Apoorv Pathak' width = '800' height = '150'>
+  <img src = "./Formula's/Silhouette Score.png" alt = 'Apoorv Pathak' width = '700' height = '150'>
 </p>
 
 ## REFERENCES:
