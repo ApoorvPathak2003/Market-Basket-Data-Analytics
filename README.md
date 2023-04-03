@@ -60,8 +60,8 @@ On analyzing the numbers of accidents v/s cities following plot was obtained.
 
 And now we will visualize CITIES & COUNTRIES WITH MAXIMUM ALCOHOL SALES.
 <p float = 'left'>
-  <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '505' height = '300'>
-  <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '505' height = '300'>
+  <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '503' height = '300'>
+  <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '503' height = '300'>
 </p>
 
 ## REFERENCES:
