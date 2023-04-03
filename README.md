@@ -11,7 +11,7 @@ Market Basket Analysis does not rely on any assumption like linearity, or normal
 ## LOGIC BEHIND MAREKT BASKET ANALYSIS:
 Primary aim of this analysis is to find the relation between the items being purchased by the customer. This technique primarily computes **If-Then** clause i.e,
 
-***If[A] then[B] = 'the item on the left(A) is likely to be ordered more often with the item on the right(B)'***
+> ***If[A] then[B] = 'the item on the left(A) is likely to be ordered more often with the item on the right(B)'***
 
 ***Example 1:***
 
@@ -31,11 +31,11 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 - -1 means clusters are assigned incorrectly.
 
 ## REFERENCES:
-[1] Research Paper: How to Increase Sales in Retail with Market Basket Analysis
+[1] [Research Paper: How to Increase Sales in Retail with Market Basket Analysis](https://www.academia.edu/download/56086206/Article_1.pdf)
 <!-- https://www.academia.edu/download/56086206/Article_1.pdf -->
-[2] Market Basket Analysis in Management Research
+[2] [Market Basket Analysis in Management Research](https://journals.sagepub.com/doi/abs/10.1177/0149206312466147)
 <!-- https://journals.sagepub.com/doi/abs/10.1177/0149206312466147 -->
-[3] Centrality
+[3] [Centrality](https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3)
 <!-- https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3 -->
-[4] Silhouette Coefficient
+[4] [Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
 <!-- https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c -->
