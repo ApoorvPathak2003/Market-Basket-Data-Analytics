@@ -25,12 +25,9 @@ If[Bread] then[Butter] => Customer's are more frequent in buying *Butter* when t
 6. **Zhang's Metric:** Zhang metric or F-measure can be used to evaluate the performance of association rule mining algorithms. This metric's value ranges from -1 to 1 to represent both positive and perfect associations. This metric helps in determining the specific items which must not be put together.
 7. **Centrality:** This is a crucial concept as it help in determining the most important node in the graph. Importance of any node depends on the defination of the *importance*.
 8. **Silhouette Coefficient:** Silhouette Score is pretty helpful in calculating the goodness of the clustering techniques. Its value ranges from -1 to 1.
-
-1 means clusters are well apart from each other and clearly distinguished.
-
-0 means clusters are indifferent from each other and distance between them is not significant.
-
--1 means clusters are assigned incorrectly.
+- 1 means clusters are well apart from each other and clearly distinguished.
+- 0 means clusters are indifferent from each other and distance between them is not significant.
+- -1 means clusters are assigned incorrectly.
 
 ## REFERENCES:
 [1] Research Paper: How to Increase Sales in Retail with Market Basket Analysis
