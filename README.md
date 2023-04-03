@@ -47,6 +47,12 @@ This is the most popular data-mining algorithm used to extract frequent patterns
 </p>
 See link in the references for detailed understanding.
 
+## DATA VISUALIZATION:
+On analyzing the numbers of accidents v/s cities following plot was obtained.
+<p align = 'center'>
+  <img src = "./Formula's/Apriori Algorithm.png" alt = 'Apoorv Pathak' width = '200' height = '200'>
+</p>
+
 ## REFERENCES:
 [1] [Research Paper: How to Increase Sales in Retail with Market Basket Analysis](https://www.academia.edu/download/56086206/Article_1.pdf)  
 [2] [Market Basket Analysis in Management Research](https://journals.sagepub.com/doi/abs/10.1177/0149206312466147)  
