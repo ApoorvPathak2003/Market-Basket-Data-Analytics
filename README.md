@@ -48,6 +48,8 @@ This is the most popular data-mining algorithm used to extract frequent patterns
 See link in the references for detailed understanding.
 
 ## DATA VISUALIZATION:
+
+#### Customer Segment 
 First visualization corresponds to that of the TOP 25 bought items by the customers.
 <p align = 'center'>
   <img src = "./Data Visualization/Top 25 Bought Items.png" alt = 'Top 25 Bought Items' width = '400' height = '250'>
@@ -63,6 +65,12 @@ Furthermore, item's support matrix has been plotted for the TOP products brought
   <img src = "./Data Visualization/Item's Support Matrix.png" alt = 'Accidents V.S City' width = '400' height = '250'>
 </p>
 
+After all these hustle, combining the plot for price and quantity ordered against product gives a great insight about how does product price reduces the demand for any product.
+<p align = 'center'>
+  <img src = "./Data Visualization/Quantity Ordered, Products, Price.png" alt = 'Accidents V.S City' width = '400' height = '250'>
+</p>
+
+#### Alcohol Sales
 On analyzing the numbers of accidents v/s cities following plot was obtained.
 <p align = 'center'>
   <img src = "./Data Visualization/Accidents V.S City.png" alt = 'Accidents V.S City' width = '400' height = '250'>
@@ -72,6 +80,11 @@ And now we will visualize CITIES & COUNTRIES WITH MAXIMUM ALCOHOL SALES.
 <p float = 'left'>
   <img src = "./Data Visualization/Top cities with maximum alcohol sales.png" alt = 'Top cities with maximum alcohol sales' width = '503' height = '300'>
   <img src = "./Data Visualization/Top countries with maximum alcohol sales.png" alt = 'Top countries with maximum alcohol sales' width = '503' height = '300'>
+</p>
+
+On further investigating, the sales vs city plot we will get 'San Francisco CA' making the highest sales of alcohol.
+<p float = 'left'>
+  <img src = "./Data Visualization/Sales vs Cities.png" alt = 'Top cities with maximum alcohol sales' width = '503' height = '300'>
 </p>
 
 ## REFERENCES:
