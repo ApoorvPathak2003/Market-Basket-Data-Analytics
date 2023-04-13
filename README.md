@@ -8,6 +8,9 @@ In simpler terms, it helps entrepreneurs get the insights of the most frequently
 ### NOTE:
 Market Basket Analysis does not rely on any assumption like linearity, or normality which are often violated during linear-based techniques.
 
+## PROBLEM STATEMENT:
+We have to analysis and provide insights into the purchasing behavior of customers and to help retailers make informed decisions about their marketing and sales strategies which will ultimately increase the profitability of the retailers.
+
 ## DATASET:
 - Dataset used in this analysis contains the monthly sales data for 2019:
 - [DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
