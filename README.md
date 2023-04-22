@@ -13,7 +13,7 @@ We have to analysis and provide insights into the purchasing behavior of custome
 
 ## DATASET:
 - Dataset used in this analysis contains the monthly sales data for 2019:
-- [DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
+[DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/tree/main/Sales_Data)
 - Also it has a combined file of all the monthly sales data for 2019:
 [COMBINED DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/12%20months%20sales.csv)
 - We also used a dataset which has the description of the grocery items bought by the customers: 
