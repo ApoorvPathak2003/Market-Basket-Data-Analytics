@@ -21,7 +21,7 @@ We have to analysis and provide insights into the purchasing behavior of custome
 - The last dataset we used contains the details of the items bought by each of our customer:
 [CUSTOMERS DATASET](https://github.com/ApoorvPathak2003/Market-Basket-Data-Analytics/blob/main/customers.csv)
 
-## LOGIC BEHIND MAREKT BASKET ANALYSIS:
+## LOGIC BEHIND MARKET BASKET ANALYSIS:
 Primary aim of this analysis is to find the relation between the items being purchased by the customer. This technique primarily computes **If-Then** clause i.e,
 
 > ***If[A] then[B] = 'the item on the left(A) is likely to be ordered more often with the item on the right(B)'***
